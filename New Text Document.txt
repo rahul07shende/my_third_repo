@@ -1,0 +1,10 @@
+incident response plan
+visit www.nist.gov for computer security incident handling guide (diagram on page30)
+preparation---detection & analysis--- containment eradication & recovery ---post incident analysis
+
+
+1)limit the blast radius
+aws organisation
+vpc
+
+aws config
